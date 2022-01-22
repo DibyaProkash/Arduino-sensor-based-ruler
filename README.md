@@ -3,10 +3,10 @@
 The demo is an example of an Arduino sensor-based ruler that measures the distance in x coordinate. This example has been developed for the students enrolled in the "Designing Creative Support Tools" course at the University of Victoria (UVic). 
 
 **List of components:**
-  1. Arduino UNO
-  2. Ultrasonic sensor (HC-SR04) 
-  3. Jumper Wires (4-5) 
-  4. USB cable to connect the Arduino
+  1. Arduino UNO [1pc]
+  2. Ultrasonic sensor (HC-SR04) [1pc] 
+  3. Jumper Wires [4-5 pcs]
+  4. USB cable to connect the Arduino [1pc]
 
 **List of Software:**
   1. Arduino IDE
