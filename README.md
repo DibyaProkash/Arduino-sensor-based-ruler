@@ -33,4 +33,5 @@ Pin Connections from Ultrasonic to Arduino board:
   - Echo --> 7
   - GND --> GND
 
+**Final Circuit**
 ![20220122_143544](https://user-images.githubusercontent.com/33431336/150657519-c80bc82b-0eb0-4932-b550-b6f7d8ba9407.jpg)
