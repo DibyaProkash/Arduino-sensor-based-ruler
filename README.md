@@ -27,7 +27,7 @@ If you have not downloaded the Processing IDE in your system (i.e., desktop, lap
 ## Circuit Diagram:
 ![ultrasonic_rangefinder](https://user-images.githubusercontent.com/33431336/150657086-0bb6eb36-8e4a-4807-b661-8ed338c0eb21.png)
 
-You can find the TinkerCAD simulation of this cirucit from this [link](https://www.tinkercad.com/things/36ZYv9mcFvu-copy-of-ultrasonic-rangefinder/editel?sharecode=S5TrcuV3oIfY3Qw2aTk51pGA9ot83jd9GpsjqchiGMk) [Please make a copy for yourself and then start tinkering]
+You can find the TinkerCAD simulation of this cirucit from this [link](https://www.tinkercad.com/things/36ZYv9mcFvu-copy-of-ultrasonic-rangefinder/editel?sharecode=S5TrcuV3oIfY3Qw2aTk51pGA9ot83jd9GpsjqchiGMk) [Please make a copy for yourself and then start tinkering].
 
 Pin Connections from Ultrasonic to Arduino board:
   - Vcc --> 5V
