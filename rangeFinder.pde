@@ -7,7 +7,7 @@ void setup()
 {
   size(1366,900); // size of processing window
   background(0);// setting background color to black
-  myPort = new Serial(this, "COM4", 9600);
+  myPort = new Serial(this, "COM4", 9600);// make sure the port is slected correctly, in this case it is COM4 
   myPort.bufferUntil('\n');
 }
 
