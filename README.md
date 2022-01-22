@@ -17,7 +17,8 @@ The demo is an example of an Arduino sensor-based ruler that measures the distan
   2. Processing software 
 
 Arduino IDE Installation:
-If you have not downloaded the Arduino IDE in your system (i.e., desktop, laptop, etc.), please download Arduino from this URL: https://www.arduino.cc/en/software
+If you have not downloaded the Arduino IDE in your system (i.e., desktop, laptop, etc.), please download [Arduino IDE] (https://www.arduino.cc/en/software).
+
 You can find installation guidelines for installing Arduino from this URL: https://accautomation.ca/arduino-uno-super-starter-kit-software/ 
 
 Processing IDE installation:
@@ -26,9 +27,10 @@ If you have not downloaded the Processing IDE in your system (i.e., desktop, lap
 ## Circuit Diagram:
 ![ultrasonic_rangefinder](https://user-images.githubusercontent.com/33431336/150657086-0bb6eb36-8e4a-4807-b661-8ed338c0eb21.png)
 
-Pin Connection from Ultrasonic to Arduino board:
+Pin Connections from Ultrasonic to Arduino board:
   - Vcc --> 5V
   - Trig --> 8
   - Echo --> 7
   - GND --> GND
 
+![20220122_143544](https://user-images.githubusercontent.com/33431336/150657519-c80bc82b-0eb0-4932-b550-b6f7d8ba9407.jpg)
