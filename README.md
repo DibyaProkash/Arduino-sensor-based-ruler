@@ -1,5 +1,8 @@
 # Arduino Sensor-based Ruler + Drawing
 
+## Introduction
+
+## Purpose
 The demo is an example of an Arduino sensor-based ruler that measures the distance in x coordinate. This example has been developed for the students enrolled in the "Designing Creative Support Tools" course at the University of Victoria (UVic). 
 
 **List of components:**
