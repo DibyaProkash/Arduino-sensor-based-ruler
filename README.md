@@ -34,4 +34,17 @@ Pin Connections from Ultrasonic to Arduino board:
   - GND --> GND
 
 **Final Circuit**
-![20220122_143544](https://user-images.githubusercontent.com/33431336/150657519-c80bc82b-0eb0-4932-b550-b6f7d8ba9407.jpg)
+![final_circuit](https://user-images.githubusercontent.com/33431336/150657519-c80bc82b-0eb0-4932-b550-b6f7d8ba9407.jpg)
+
+## Coding Instructions:
+  - Open your Arduino IDE
+  - Copy and paste the code from [rangeFinder.ino](https://github.com/DibyaProkash/Arduino-sensor-based-ruler/blob/main/rangeFinder.ino) in your Arduino IDE.
+  - Click the verify and then upload
+  - Make sure you have selected the right board and port in your Arduino IDE. You can check it by following the picture below:
+  ![select_board_and_port](https://user-images.githubusercontent.com/33431336/150657889-c7261708-d3e8-4da1-b9db-565fd23596eb.png)
+  - Next, open your Processing IDE
+  - copy and paste code from [rangeFinder.pde](https://github.com/DibyaProkash/Arduino-sensor-based-ruler/blob/main/rangeFinder.pde) 
+  - Make sure you have initialized the correct port number in your processing code. Please follow the below picture to initialize the port number:
+  ![port_number](https://user-images.githubusercontent.com/33431336/150658090-6fdc6655-448e-4c2a-b527-bd1856e5d3dc.png)
+
+  
