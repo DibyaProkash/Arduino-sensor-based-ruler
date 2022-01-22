@@ -34,6 +34,7 @@ Pin Connections from Ultrasonic to Arduino board:
   - GND --> GND
 
 **Final Circuit**
+
 ![final_circuit](https://user-images.githubusercontent.com/33431336/150657519-c80bc82b-0eb0-4932-b550-b6f7d8ba9407.jpg)
 
 ## Coding Instructions:
@@ -46,5 +47,10 @@ Pin Connections from Ultrasonic to Arduino board:
   - copy and paste code from [rangeFinder.pde](https://github.com/DibyaProkash/Arduino-sensor-based-ruler/blob/main/rangeFinder.pde) 
   - Make sure you have initialized the correct port number in your processing code. Please follow the below picture to initialize the port number:
   ![port_number](https://user-images.githubusercontent.com/33431336/150658090-6fdc6655-448e-4c2a-b527-bd1856e5d3dc.png)
+
+## Final Output
+In the final outcome, the code draws a line based on the distance i.e., start at (0,0) and end at (0,distance) in the Processing. 
+
+https://user-images.githubusercontent.com/33431336/150658364-3673ed4a-241a-49b5-be4d-f9e3d571a44b.mp4
 
   
