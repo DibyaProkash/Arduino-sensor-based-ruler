@@ -19,3 +19,12 @@ You can find installation guidelines for installing Arduino from this URL: https
 Processing IDE installation:
 If you have not downloaded the Processing IDE in your system (i.e., desktop, laptop, etc.), please download Arduino from this URL: https://processing.org/ 
 
+## Circuit Diagram:
+![ultrasonic_rangefinder](https://user-images.githubusercontent.com/33431336/150657086-0bb6eb36-8e4a-4807-b661-8ed338c0eb21.png)
+
+Pin Connection from Ultrasonic to Arduino board:
+  - Vcc --> 5V
+  - Trig --> 8
+  - Echo --> 7
+  - GND --> GND
+
