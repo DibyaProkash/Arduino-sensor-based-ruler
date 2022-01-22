@@ -1,6 +1,7 @@
-# Arduino Sensor-based Ruler + Drawing
+# Arduino & Processing Demo: Sensor-based Ruler + Drawing
 
 ## Introduction
+By this time, you are now almost familiar with how Arduino works, but there are more exciting things you can do with your Arduino. Processing is an open-source IDE through which you can create stunning visual and interactive experiences. You can use Arduino serial data and send it to Processing using a serial library (in Processing). In this lab, we are going to introduce Processing software to you and demonstrate how you can create an interactive graphical prototype using Arduino and Processing.
 
 ## Purpose
 The demo is an example of an Arduino sensor-based ruler that measures the distance in x coordinate. This example has been developed for the students enrolled in the "Designing Creative Support Tools" course at the University of Victoria (UVic). 
