@@ -17,7 +17,7 @@ The demo is an example of an Arduino sensor-based ruler that measures the distan
   2. Processing software 
 
 Arduino IDE Installation:
-If you have not downloaded the Arduino IDE in your system (i.e., desktop, laptop, etc.), please download [Arduino IDE] (https://www.arduino.cc/en/software).
+If you have not downloaded the Arduino IDE in your system (i.e., desktop, laptop, etc.), please download Arduino IDE from this URL: https://www.arduino.cc/en/software 
 
 You can find installation guidelines for installing Arduino from this URL: https://accautomation.ca/arduino-uno-super-starter-kit-software/ 
 
